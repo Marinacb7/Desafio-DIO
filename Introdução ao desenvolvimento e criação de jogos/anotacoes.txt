@@ -1,0 +1,19 @@
+#Visão geral sobre o processo
+
+Idealização -> Protótipo -> Fatia Vertical -> Inicio da Produção -> Alpha ->
+-> Beta -> Versão Final -> Lançamento
+
+- Fatia Vertical: Fragmento completo (Protótipo Funcional)
+- Alpha: Jogo funcional com pouco conteúdo (Espinha Dorsal)
+- Beta: Criação de conteúdo (Expansão Horizontal)
+
+##Principais plataformas e tecnologias
+
+- A que você souber usar**
+
+##Onde Publicar
+
+- Mobile: Play Store e App Store
+- Windows: Steam, itch.io..
+- Web: Kongregate, gameVolt..
+- Consoles: Xbox, Switch..
